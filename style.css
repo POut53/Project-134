@@ -1,0 +1,13 @@
+body {
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+#heading{
+    text-align: center;
+    color: #36D0B4;
+    background-color: #663577;
+    font-family: 'Luxurious Roman', cursive;
+    box-shadow: 2px 2px 2px #33D0B2;
+}
